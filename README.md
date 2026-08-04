@@ -37,6 +37,11 @@ I am an Information Systems student at **Mulawarman University**, passionate abo
 
 ---
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GhenAyari&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/GhenAyari)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GhenAyari&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8)](https://github.com/GhenAyari)
+
+---
+
 
 <p align="center">
   <i>Let's connect and build something amazing together! </i>
