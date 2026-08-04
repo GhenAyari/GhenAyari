@@ -35,10 +35,6 @@ I am an Information Systems student at **Mulawarman University**, passionate abo
 **Operating System:**<br>
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
----
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GhenAyari&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/GhenAyari)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GhenAyari&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8)](https://github.com/GhenAyari)
 
 ---
 
