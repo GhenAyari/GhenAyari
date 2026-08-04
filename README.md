@@ -32,9 +32,12 @@ I am an Information Systems student at **Mulawarman University**, passionate abo
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab_ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-**Operating System:**<br>
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
+**Environment & Tools:**<br>
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Zed](https://img.shields.io/badge/Zed-000000?style=for-the-badge&logo=zed&logoColor=white)
+![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
 
 ---
 
