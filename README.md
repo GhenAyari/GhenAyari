@@ -31,17 +31,10 @@ I am an Information Systems student at **Mulawarman University**, passionate abo
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab_ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
 **Operating System:**<br>
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
----
-
-### 📊 GitHub Stats & Top Languages
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GhenAyari&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/GhenAyari)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GhenAyari&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8)](https://github.com/GhenAyari)
 ---
 
 
