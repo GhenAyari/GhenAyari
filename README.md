@@ -1,4 +1,4 @@
-# Hi there! I'm Ghendida Gantari Ayari 👋
+# Hi there! I'm Ghendida Gantari Ayari 
 
 I am an Information Systems student at **Mulawarman University**, passionate about software development, system architecture, and automation. I enjoy building robust applications and currently thrive in a **Fedora Linux** environment.
 
