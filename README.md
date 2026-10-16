@@ -1,14 +1,14 @@
-# Hi there! I'm Ghendida Gantari Ayari 
+# Hi there! I'm Ghendida Gantari Ayari 👋
 
-I am an Information Systems student at **Mulawarman University**, passionate about software development, system architecture, and automation. I enjoy building robust applications and currently thrive in a **Fedora Linux** environment.
+I'm an Information Systems student at **Universitas Mulawarman**. I like building solid software, tinkering with system architectures, and automating repetitive tasks. You'll usually find me writing code on **Fedora Linux**.
 
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Currently studying **Information Systems** at Universitas Mulawarman.
-- 🐧 Proud **Linux Fedora** daily driver.
-- 💡 Always eager to learn new technologies and optimize deployment workflows.
-- 📫 How to reach me: **ayarighen@gmail.com**
+- 🎓 Studying **Information Systems** at Universitas Mulawarman.
+- 🐧 Fedora is my daily driver.
+- 💡 Always exploring new tech and figuring out ways to make deployments smoother.
+- 📫 Hit me up at: **ayarighen@gmail.com**
 
 ---
 
@@ -18,7 +18,10 @@ I am an Information Systems student at **Mulawarman University**, passionate abo
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Axum](https://img.shields.io/badge/Axum-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 **Databases:**<br>
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -36,12 +39,13 @@ I am an Information Systems student at **Mulawarman University**, passionate abo
 **Environment & Tools:**<br>
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Zed](https://img.shields.io/badge/Zed-000000?style=for-the-badge&logo=zed&logoColor=white)
 ![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
+![Zed](https://img.shields.io/badge/Zed-000000?style=for-the-badge&logo=zed&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Bruno](https://img.shields.io/badge/Bruno-212121?style=for-the-badge)
 
 ---
 
-
 <p align="center">
-  <i>Let's connect and build something amazing together! </i>
+  <i>Feel free to reach out if you want to chat about tech, Linux, or interesting projects!</i>
 </p>
