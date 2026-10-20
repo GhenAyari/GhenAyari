@@ -46,10 +46,9 @@ I'm an Information Systems student at **Universitas Mulawarman**. I like buildin
 
 ---
 
-### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GhenAyari&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhenAyari&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&hide=jupyter%20notebook,c%2B%2B,cmake,java,css,blade,html" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GhenAyari&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhenAyari&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook,c%2B%2B,cmake,java,css,blade,html,swift,python,c" alt="Top Languages" />
 </div>
 
 ---
